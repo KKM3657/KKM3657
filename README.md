@@ -1,7 +1,8 @@
 ## Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKM3657)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKM3657)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKM3657)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmm3657)](https://solved.ac/mmm3657)
 <!--
