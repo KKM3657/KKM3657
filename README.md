@@ -1,4 +1,8 @@
-## Hi there 👋
+## 안녕하세요
+기본에 충실하되 도전을 즐기고
+함께 일하고 싶은 동료에 대해 고민하는, 
+그런 동료가 되기 위해 최선을 다하는 개발자입니다.
+
 ## 💻 Back-end Developer
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KKM3657)](https://github.com/anuraghazra/github-readme-stats)
